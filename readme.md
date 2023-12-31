@@ -3,7 +3,7 @@
 ##
 
 1. <a href="#"> - </a>
-2. <a href="/chapter-2-function/"> Funções </a>
+2. <a href="/chapter-2-functions/"> Funções </a>
 3. <a href="#"> - </a>
 4. <a href="#"> - </a>
 5. <a href="#"> - </a>
